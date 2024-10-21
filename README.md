@@ -28,8 +28,7 @@ This project includes two tools:
 - Easy to use
 
   ## OUTPUTS -
-![Student grade tracker py - Visual Studio Code 21-10-2024 13_55_01](https://github.com/user-attachments/assets/dcd7f2b9-5d6a-4a56-8bbf-8bb8c80e1430)
 ![Student grade tracker py - Visual Studio Code 21-10-2024 13_56_14](https://github.com/user-attachments/assets/f1da062e-e0c4-4f72-a2e0-7d83ce5992b8)
-
+![Student grade tracker py - Visual Studio Code 21-10-2024 14_46_49](https://github.com/user-attachments/assets/05b4e15a-a7f7-4c36-88dd-fc4a545ed245)
 
 
