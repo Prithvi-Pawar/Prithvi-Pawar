@@ -1,3 +1,4 @@
+
 **Name:** PRITHVI PAWAR
 
 **Company:** CODTECH IT SOLUTIONS
@@ -26,6 +27,9 @@ This project includes two tools:
 - Calculate percentage of a number
 - Easy to use
 
+  ## OUTPUT
+![Student grade tracker py - Visual Studio Code 21-10-2024 13_55_01](https://github.com/user-attachments/assets/dcd7f2b9-5d6a-4a56-8bbf-8bb8c80e1430)
+![Student grade tracker py - Visual Studio Code 21-10-2024 13_56_14](https://github.com/user-attachments/assets/f1da062e-e0c4-4f72-a2e0-7d83ce5992b8)
 
 
 
