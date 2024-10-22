@@ -13,13 +13,13 @@
 
 ## Simple Calculator & Percentage Calculator
 
-A basic command-line tool to perform simple arithmetic operations and calculate percentages.
+A basic command-line tool to perform simple arithmetic operations and calculate grades.
 
  About:
  
 This project includes two tools:
 1. A simple calculator that can perform addition, subtraction, multiplication, and division.
-2. A percentage calculator that allows you to calculate percentages easily.
+2. A percentage calculator that allows you to calculate grades based on marks.
 
  Features:
 
