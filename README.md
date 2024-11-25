@@ -1,7 +1,7 @@
 
 **Name:** PRITHVI PAWAR
 
-**Company:** CODTECH IT SOLUTIONS
+**Internship:** CODTECH IT SOLUTIONS
 
 **ID:** CT12DS2272
 
