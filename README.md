@@ -1,4 +1,4 @@
-# Hey there! I'm [Your Name] 👋
+# Hey there! I'm Prithvi Pawar 👋
 
 I'm currently diving deep into the world of tech—learning new things every day and using AI to level up my coding game.
 
