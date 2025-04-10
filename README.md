@@ -1,22 +1,41 @@
-# Hey there! I'm Prithvi Pawar 👋
+# Hey, I'm Code-Kick-off! ⚽💻
 
-I'm currently diving deep into the world of tech—learning new things every day and using AI to level up my coding game.
-
-## 🚀 About Me
-- Passionate about **web development** and **Python**
-- Using tools like **VS Code** to build and explore
-- Leveraging AI to code smarter, not harder
-- When I'm not coding, you'll probably find me on the football field!
-
-## 🛠 Tech Stack
-- HTML | CSS | JavaScript | Python
-- Tools: VS Code, GitHub Copilot, ChatGPT, and more
-
-## 📲 Let's Connect
-- [Instagram](https://instagram.com/yourusername)
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
+I'm a curious learner on a mission to explore the world of tech—one line of code at a time.  
+I use **AI to code smarter**, learn faster, and build cool stuff along the way.
 
 ---
 
-> "Keep learning. Keep building. Stay curious."
+## 🚀 About Me
+- Aspiring developer learning **HTML**, **CSS**, **JavaScript**, and **Python**
+- Using **VS Code** (and AI tools like ChatGPT) to supercharge my learning
+- Love solving problems and experimenting with new ideas
+- Big fan of **football**—on the field and off!
+
+---
+
+## 🧰 Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Code-Kick-off's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-Kick-off&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Kick-off&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+
+---
+
+> “Stay hungry. Stay foolish. Stay coding.”
