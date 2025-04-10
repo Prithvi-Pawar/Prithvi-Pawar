@@ -1,34 +1,22 @@
+# Hey there! I'm [Your Name] 👋
 
-**Name:** PRITHVI PAWAR
+I'm currently diving deep into the world of tech—learning new things every day and using AI to level up my coding game.
 
-**Internship:** CODTECH IT SOLUTIONS
+## 🚀 About Me
+- Passionate about **web development** and **Python**
+- Using tools like **VS Code** to build and explore
+- Leveraging AI to code smarter, not harder
+- When I'm not coding, you'll probably find me on the football field!
 
-**ID:** CT12DS2272
+## 🛠 Tech Stack
+- HTML | CSS | JavaScript | Python
+- Tools: VS Code, GitHub Copilot, ChatGPT, and more
 
-**Domain:** Python Programming
+## 📲 Let's Connect
+- [Instagram](https://instagram.com/yourusername)
+- [LinkedIn](https://linkedin.com/in/yourusername)
+- [Twitter](https://twitter.com/yourusername)
 
-**Duration:** August to October 2024
+---
 
-
-
-## Simple Calculator & Percentage Calculator
-
-A basic command-line tool to perform simple arithmetic operations and calculate grades.
-
- About:
- 
-This project includes two tools:
-1. A simple calculator that can perform addition, subtraction, multiplication, and division.
-2. A percentage calculator that allows you to calculate grades based on marks.
-
- Features:
-
-- Addition, subtraction, multiplication, and division
-- Calculate percentage of a number
-- Easy to use
-
-  ## OUTPUTS -
-![Student grade tracker py - Visual Studio Code 21-10-2024 13_56_14](https://github.com/user-attachments/assets/f1da062e-e0c4-4f72-a2e0-7d83ce5992b8)
-![Student grade tracker py - Visual Studio Code 21-10-2024 14_46_49](https://github.com/user-attachments/assets/05b4e15a-a7f7-4c36-88dd-fc4a545ed245)
-
-
+> "Keep learning. Keep building. Stay curious."
