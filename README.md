@@ -15,6 +15,10 @@ I use **AI to code smarter**, learn faster, and build cool stuff along the way.
 
 ---
 
+![Code Energy](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmRhN2s5eXVqYzFqbXFrZ2Nobml3MW4wcG9nNGliYzhja2lqZGRkMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)
+
+---
+
 ## 🧰 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
