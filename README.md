@@ -1,5 +1,7 @@
 # Hey, I'm Code-Kick-off! ⚽💻
 
+![Intro GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 I'm a curious learner on a mission to explore the world of tech—one line of code at a time.  
 I use **AI to code smarter**, learn faster, and build cool stuff along the way.
 
@@ -22,18 +24,10 @@ I use **AI to code smarter**, learn faster, and build cool stuff along the way.
 
 ---
 
-## 📊 GitHub Stats
-
-![Code-Kick-off's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-Kick-off&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Kick-off&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 
 ---
