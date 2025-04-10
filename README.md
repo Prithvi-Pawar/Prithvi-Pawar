@@ -7,7 +7,7 @@ I use **AI to code smarter**, learn faster, and build cool stuff along the way.
 
 ---
 
-## 🚀 About Me
+## 🫡 About Me
 - Aspiring developer learning **HTML**, **CSS**, **JavaScript**, and **Python**
 - Using **VS Code** (and AI tools like ChatGPT) to supercharge my learning
 - Love solving problems and experimenting with new ideas
@@ -15,7 +15,7 @@ I use **AI to code smarter**, learn faster, and build cool stuff along the way.
 
 ---
 
-## 🧰 Tech Stack
+## ✨ Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
