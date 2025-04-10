@@ -15,7 +15,7 @@ I use **AI to code smarter**, learn faster, and build cool stuff along the way.
 
 ---
 
-![Code Energy](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmRhN2s5eXVqYzFqbXFrZ2Nobml3MW4wcG9nNGliYzhja2lqZGRkMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)
+![Code Power-Up](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3F6YXY3cnd0bDJ4NHV4NG92a2QweGl1NzFnZGxma2NqZDU5cXZxeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26AHONQ79FdWZhAI0/giphy.gif)
 
 ---
 
