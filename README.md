@@ -1,4 +1,4 @@
-# Hey, I'm Code-Kick-off! ⚽💻
+# Hey, I'm Prithvi Pawar! ⚽💻
 
 ![Intro GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
